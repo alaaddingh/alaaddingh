@@ -12,7 +12,4 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/alaaddin-ghosheh-290277273/"/>][linkedin]
-
 
