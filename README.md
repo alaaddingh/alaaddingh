@@ -10,6 +10,3 @@
  - [Web Design Sample #1](https://scottrazorkaraoke.com/)
  - [Web Design Sample #2](https://www.serpenttattoos.com/)
 
-
-
-
