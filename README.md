@@ -4,6 +4,7 @@
 - <h2>Web Applications</h2>
  - [Compound Interest Calculator](https://github.com/alaaddingh/Compound-Interest-Calculator)
  - [Space Shooter Game](https://alaaddingh.github.io/)
+ - [Platformer Video Game](https://alaaddingh.github.io/platformer_game/)
 - <h2>Python</h2>
  - [Contact Webscraper](https://github.com/alaaddingh/Contact-Webscraper)
  
