@@ -2,6 +2,7 @@
 <h2>👨‍💻 Software and Web Development Projects</h2>
 
 - <h2>Web Applications</h2>
+- [AI Recipe Tool](https://github.com/alaaddingh/recipe-daddy)
  - [Compound Interest Calculator](https://github.com/alaaddingh/Compound-Interest-Calculator)
  - [Space Shooter Game](https://alaaddingh.github.io/)
  - [Platformer Video Game](https://alaaddingh.github.io/platformer_game/)
