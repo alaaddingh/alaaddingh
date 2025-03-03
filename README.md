@@ -12,5 +12,5 @@
 - <h2>Web Development</h2>
  - [Web Design Sample #1](https://scottrazorkaraoke.com/)
  - [Web Design Sample #2](https://www.serpenttattoos.com/)
- - [Web Design Samplw #3](https://www.acagencydesign.com/services/)
+ - [Web Design Sample #3](https://www.acagencydesign.com/)
 
