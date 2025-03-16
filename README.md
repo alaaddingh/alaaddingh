@@ -10,7 +10,7 @@
  - [P2P Socket Program](https://github.com/alaaddingh/p2p_chat)
  
 - <h2>Web Development</h2>
- - [Web Design Sample #1](https://scottrazorkaraoke.com/)
- - [Web Design Sample #2](https://www.serpenttattoos.com/)
- - [Web Design Sample #3](https://www.acagencydesign.com/)
+ - ["Scott Razor Karaoke" Business Website](https://scottrazorkaraoke.com/)
+ - ["Serpent Tattoos" Business Website](https://www.serpenttattoos.com/)
+ - ["Ac Agency" Business Website](https://www.acagencydesign.com/)
 
