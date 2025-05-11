@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software and Web Development Projects</h2>
 
 - <h2>Web Applications</h2>
-- [AI Recipe Tool](https://github.com/alaaddingh/recipe-daddy)
+- [Recipe Daddy (AI-Driven Recipe Application)](https://github.com/alaaddingh/recipe-daddy)
 - [Revamp (Real Estate Platform)](https://revamp-sv.vercel.app/)
  - [Slug Scheduler (Hackathon Project)](https://github.com/charlesphu/slugscheduler)
 - <h2>Python</h2>
