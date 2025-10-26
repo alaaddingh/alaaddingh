@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software and Web Development Projects</h2>
 
 - <h2>Web Applications</h2>
-- [Recipe Daddy (AI-Driven Recipe Application)](https://github.com/alaaddingh/recipe-daddy)
+- [Pet101](https://github.com/alaaddingh/pet101)
 - [Slug Scheduler (Hackathon Project)](https://github.com/charlesphu/slugscheduler)
 - [Job Shift Full-Stack Tracker](https://github.com/changerate/personal-employee-scheduler)
 - <h2>Python</h2>
