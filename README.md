@@ -12,7 +12,7 @@ Full-stack shift & income analytics platform
 React • Supabase • SQL
 
 ### 📈 [Netflix Account-Sharing Analysis](https://github.com/alaaddingh/Netflix_Account_Sharing)
-Analysis of Netflix's Policy-Change impact on business performance (2022–2024)
+Analysis of Netflix's Policy-Change impact on business performance (2022–2024)  
 SQL • Tableau
 
 ### 🎮 [MageTender (Capstone)](https://github.com/alaaddingh/magetender)
