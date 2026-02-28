@@ -1,8 +1,32 @@
-<h1>Hi, I'm Ala'addin! <br/>
-<h2>👨‍💻 Software and Web Development Projects</h2>
+# Ala’addin Ghosheh
 
-- <h2>Web Applications</h2>
-- [Shiftlytics (job shift analytics platform)](https://github.com/changerate/personal-employee-scheduler)
-- [Slug Scheduler (Hackathon Project)](https://github.com/charlesphu/slugscheduler)
-- <h2> Data Analytics</h2>
-- [Netflix Account-Sharing (Descriptive Visualization)](https://github.com/alaaddingh/Netflix_Account_Sharing)
+Computer Science @ UCSC (Class of 2026)  
+Focused on **Data Analytics and data-driven applications**
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Shiftlytics](https://github.com/changerate/personal-employee-scheduler)
+Full-stack shift & income analytics platform  
+React • Supabase • SQL
+
+### 📈 [Netflix Account-Sharing Analysis](https://github.com/alaaddingh/Netflix_Account_Sharing)
+Analysis of Netflix's Policy-Change impact on business performance (2022–2024)
+SQL • Tableau
+
+### 🎮 [MageTender (Capstone)](https://github.com/alaaddingh/magetender)
+Collaborative Data-driven 2D Unity game with modular architecture  
+Unity • C# • JSON systems
+
+---
+
+## 📚 Other Work
+
+- [Slug Scheduler (Hackathon Project)](https://github.com/charlesphu/slugscheduler)  
+- [Recipe Daddy (GPT Web App)](https://github.com/alaaddingh/recipe-daddy)  
+- [P2P Python Chat](https://github.com/alaaddingh/p2p_chat)  
+- [Neural Network Frog Path](https://github.com/alaaddingh/NN_FrogPath)
+
+
+---
