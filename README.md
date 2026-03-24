@@ -26,7 +26,7 @@ Unity • C# • JSON systems
 - [Slug Scheduler (Hackathon Project)](https://github.com/charlesphu/slugscheduler)  
 - [Recipe Daddy (GPT Web App)](https://github.com/alaaddingh/recipe-daddy)  
 - [P2P Python Chat](https://github.com/alaaddingh/p2p_chat)  
-- [Neural Network Frog Path](https://github.com/alaaddingh/NN_FrogPath)
+
 
 
 ---
