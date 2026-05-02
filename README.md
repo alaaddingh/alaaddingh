@@ -11,9 +11,9 @@ Focused on **Data Analytics and data-driven applications**
 Full-stack shift & income analytics platform  
 React • Supabase • SQL
 
-###  [Netflix Account-Sharing Analysis](https://github.com/alaaddingh/Netflix_Account_Sharing)
-Analysis of Netflix's Policy-Change impact on business performance (2022–2024)  
-SQL • Tableau
+###  [Adidas Profit Efficiency Analysis](https://github.com/alaaddingh/adidas-profit-efficiency-analysis)
+Analysis of Adidas's Profit efficiency in product categories, retail partners, & sales methods (2021)  
+SQL • Tableau 
 
 ###  [MageTender (Capstone)](https://github.com/alaaddingh/magetender)
 Collaborative Data-driven 2D Unity game with modular architecture  
